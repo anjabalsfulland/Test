@@ -1,8 +1,9 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "58cf9ca0-f66d-11e9-961a-8b93e366bc4d",
+  "do_objectID": "3A90126F-8E9B-4CD9-ACE2-4A84F00FC0BF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,44 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 512,
+    "width": 512,
+    "x": 896,
+    "y": 129
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c66f29a3a6bfcfafebb89981f11a9a2bc33ba722.png",
+    "_ref_class": "MSImageData"
   },
-  "includeInCloudUpload": true,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "ED63B9FC-9E63-49DA-B917-F48CFC16602F"
-    },
-    {
-      "class": "bitmap",
-      "id": "3A90126F-8E9B-4CD9-ACE2-4A84F00FC0BF"
-    }
-  ],
   "maintainScrollPosition": false,
-  "name": "Page 1",
+  "name": "avatar",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A8BE0191-9B29-45F2-93EA-98B2D53DA0C5",
+    "do_objectID": "82358591-9600-4D2C-A361-F1376CB565D2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,13 +90,23 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 512,
+            "enabled": 1,
+            "modelID": "constraint_223f884c-87d7-49ff-b2d8-0a30995e3826",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 512
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2d99a7fb-882c-4e01-9ff3-bb71d2616a3b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }
