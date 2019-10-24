@@ -1,8 +1,8 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "56654E22-494F-45CF-B1B4-0A2BF8C8BA79",
+  "do_objectID": "CDCA614A-1565-4839-B0A8-14408A6A14BB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 110,
-    "width": 160,
-    "x": 586,
-    "y": 125
+    "height": 257,
+    "width": 299,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,8 +29,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "#8",
-  "nameIsFixed": false,
+  "name": "Boder",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -72,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DA332C34-48DE-4F57-B371-148D164FC507",
+    "do_objectID": "0B12BF2B-C0D8-4CD3-907D-71C7C61DEDB1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,6 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5D46FD44-5829-4457-B7B5-4B9F37D24731",
+  "symbolID": "476CB605-D2BF-4D0F-8917-008CF664752F",
   "verticalSpacing": 0
 }

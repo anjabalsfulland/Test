@@ -1,8 +1,8 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DC36B2C1-2D5A-4DFD-B9D9-B9269427335D",
+  "do_objectID": "882009B3-83BD-463D-82C7-4025CEAC9232",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 110,
-    "width": 160,
-    "x": 0,
-    "y": 125
+    "height": 19,
+    "width": 12,
+    "x": 279,
+    "y": 77
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,8 +29,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "#5",
-  "nameIsFixed": false,
+  "name": "Cursor",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -72,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44A08DC1-BAEF-46AB-B376-59A5BB038528",
+    "do_objectID": "512E6B17-F77E-4265-842C-1BC0CAA2246C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,6 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BC9D180F-E7B2-462A-91B3-59C873233C33",
+  "symbolID": "CC486AB1-BF59-4285-BAAE-AB7D3ABB004D",
   "verticalSpacing": 0
 }

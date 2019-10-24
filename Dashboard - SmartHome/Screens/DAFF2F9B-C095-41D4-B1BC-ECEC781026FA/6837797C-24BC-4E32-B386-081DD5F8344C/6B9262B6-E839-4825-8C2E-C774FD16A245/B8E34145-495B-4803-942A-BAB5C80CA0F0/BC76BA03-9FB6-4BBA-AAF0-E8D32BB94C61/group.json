@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3FE2EC1B-C6EF-445C-9E8A-29B0519D1A4A",
+  "do_objectID": "BC76BA03-9FB6-4BBA-AAF0-E8D32BB94C61",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,29 +14,59 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 110,
-    "width": 160,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 71,
+    "width": 71,
+    "x": 114,
+    "y": 69
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "#1",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "62DD8B53-D839-4172-AB72-6CB5293DF861"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D41030A-1DD8-436D-B526-F30F8C046245"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C995CA8-0B1E-4B02-93F9-5DA41AA02F37"
+    },
+    {
+      "class": "shapePath",
+      "id": "D35653AE-528A-4BAB-9569-BA76A1239298"
+    },
+    {
+      "class": "shapePath",
+      "id": "77B611DE-2E59-4664-B112-D8EA531F44A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "59E970B5-C2DD-4958-8F6E-7A560E852801"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24406E99-FC78-4550-A992-70F3CA5B55EA"
+    }
   ],
+  "maintainScrollPosition": false,
+  "name": "wifi",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,7 +75,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 11.99999928474426,
       "saturation": 1,
       "type": 0
     },
@@ -72,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "399A5EAF-D98D-43DB-BFB8-3A5FAB196E27",
+    "do_objectID": "AC782D0E-3047-4208-8ECF-5C804EF564A8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,7 +113,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "1E471446-A156-4856-9A35-D314C81D926C",
-  "verticalSpacing": 0
+  }
 }

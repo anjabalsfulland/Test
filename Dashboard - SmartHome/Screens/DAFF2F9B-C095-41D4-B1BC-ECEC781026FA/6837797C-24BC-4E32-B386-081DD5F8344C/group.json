@@ -1,8 +1,8 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B79B5C9C-1F7F-4B32-A8F9-EF7D284AEB24",
+  "do_objectID": "6837797C-24BC-4E32-B386-081DD5F8344C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 567,
-    "width": 826,
-    "x": 316,
-    "y": 149
+    "height": 901,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,23 +34,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "CD3AC848-3170-43F9-8F37-33498CC46EC3"
+      "id": "DBFC4EFF-AFBB-4F1B-88F0-7DA31E80A963"
     },
     {
       "class": "group",
-      "id": "61B8B586-145B-405C-8F97-1A1488324102"
-    },
-    {
-      "class": "text",
-      "id": "BB65EE74-4BB2-42F2-BCA2-5D057F4DF126"
-    },
-    {
-      "class": "group",
-      "id": "C5FBF71C-C5A9-4510-B504-44D297277F13"
+      "id": "6B9262B6-E839-4825-8C2E-C774FD16A245"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Content",
+  "name": "Modal",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -90,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3152AFB0-E599-4F9B-9A84-D84918186E94",
+    "do_objectID": "921E9EC8-A93A-4C79-9B51-C0E35B91EDA2",
     "endMarkerType": 0,
     "fills": [
     ],

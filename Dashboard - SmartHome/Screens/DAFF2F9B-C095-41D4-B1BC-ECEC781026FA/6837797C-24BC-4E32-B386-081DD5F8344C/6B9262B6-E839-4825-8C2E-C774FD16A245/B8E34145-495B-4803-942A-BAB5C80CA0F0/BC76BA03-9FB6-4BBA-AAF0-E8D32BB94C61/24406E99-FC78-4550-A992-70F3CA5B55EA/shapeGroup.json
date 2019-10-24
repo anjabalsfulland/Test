@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E252C26D-6A49-4B1A-A9C2-2519FD51536E",
+  "do_objectID": "24406E99-FC78-4550-A992-70F3CA5B55EA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48.00018290623824,
-    "width": 48.00018290623825,
-    "x": -0.00009145311913538737,
-    "y": -0.00009145311912650558
+    "height": 54.15254237288136,
+    "width": 16.84745762711864,
+    "x": 27.07506779661016,
+    "y": 16.84745762711864
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,20 +34,20 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "5C084BC0-AC1E-44AB-82B7-09CCB7479205"
+      "id": "C91B999D-CDD0-44B0-B536-73854FF9DAA8"
     },
     {
       "class": "shapePath",
-      "id": "A6FA910B-BD93-45DF-9FEC-B6FE929226E8"
+      "id": "9554A84D-7955-4D88-BCFE-75F2CF41F103"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Mask",
+  "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "37C51384-0338-4BE5-A943-E960C80186E0",
+  "sharedStyleID": "5BEB2A73-BAEB-4298-AF9E-070593E2331F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -56,7 +56,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 11.99999928474426,
       "saturation": 1,
       "type": 0
     },
@@ -117,7 +117,7 @@
         },
         "isEnabled": false,
         "position": 0,
-        "thickness": 1
+        "thickness": 1.199999928474426
       }
     ],
     "colorControls": {
@@ -133,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "66B2F205-D5AE-4C5F-BF99-6799C31DEC50",
+    "do_objectID": "29DC6EB2-7C78-4271-B2A9-691160DAAE41",
     "endMarkerType": 0,
     "fills": [
       {
@@ -141,9 +141,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4235294117647059,
-          "green": 0.3058823529411765,
-          "red": 0.2431372549019608
+          "blue": 0.6196078431372549,
+          "green": 0.5333333333333333,
+          "red": 0.4392156862745098
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -196,12 +196,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   },
   "windingRule": 0
 }

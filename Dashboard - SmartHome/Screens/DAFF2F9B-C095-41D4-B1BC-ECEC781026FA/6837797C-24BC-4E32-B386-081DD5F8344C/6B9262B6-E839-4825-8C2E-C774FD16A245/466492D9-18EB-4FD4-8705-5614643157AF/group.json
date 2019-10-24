@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "72A419E6-D178-45BE-BB04-BABE972C57F3",
+  "do_objectID": "466492D9-18EB-4FD4-8705-5614643157AF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,28 +15,54 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 110,
-    "width": 160,
-    "x": 197,
-    "y": 125
+    "height": 257,
+    "width": 299,
+    "x": 529,
+    "y": 106
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "#6",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9E0F4EE6-930D-449C-B5D2-3C96A8F2D3F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDCA614A-1565-4839-B0A8-14408A6A14BB"
+    },
+    {
+      "class": "text",
+      "id": "BEA7C0AD-B42F-4ED9-8983-A655EF071DE5"
+    },
+    {
+      "class": "group",
+      "id": "45EAE986-823A-4A59-A7A0-778078E37FAB"
+    },
+    {
+      "class": "group",
+      "id": "1B09C093-BB59-42C4-80EB-D91AEABCE91A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "882009B3-83BD-463D-82C7-4025CEAC9232"
+    }
   ],
+  "maintainScrollPosition": false,
+  "name": "Right",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -72,7 +98,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A8CB41A0-B6DC-4068-BAE6-57A09FDBF139",
+    "do_objectID": "DC95E937-F9B1-4ADB-B6F3-562B10292637",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,7 +109,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "32D7AC40-8572-4108-B3EB-31A0B5C64D85",
-  "verticalSpacing": 0
+  }
 }

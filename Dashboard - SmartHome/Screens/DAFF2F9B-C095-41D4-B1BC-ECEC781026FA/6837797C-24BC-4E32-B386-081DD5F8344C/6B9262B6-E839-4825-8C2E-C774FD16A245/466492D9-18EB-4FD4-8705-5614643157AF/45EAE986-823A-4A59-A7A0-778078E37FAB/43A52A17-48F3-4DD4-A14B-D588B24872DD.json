@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6745098039215687,
-            "green": 0.6039215686274509,
-            "red": 0.5254901960784314
+            "blue": 0.9803921568627451,
+            "green": 0.5568627450980392,
+            "red": 0.1215686274509804
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
-              "size": 17
+              "name": "Roboto-Bold",
+              "size": 15
             }
           },
           "kerning": 0,
@@ -27,16 +27,16 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 79,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Customize your overview page  layout. Choose the one that best fits your needs."
+    "string": "010"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "BB65EE74-4BB2-42F2-BCA2-5D057F4DF126",
+  "do_objectID": "43A52A17-48F3-4DD4-A14B-D588B24872DD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 597,
-    "x": 106,
-    "y": 179
+    "height": 18,
+    "width": 26,
+    "x": 40.1999968290329,
+    "y": 17.59999895095825
   },
-  "glyphBounds": "{{1, 4}, {594, 18}}",
+  "glyphBounds": "{{0, 3}, {26, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,12 +65,12 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Description",
-  "nameIsFixed": true,
+  "name": "010",
+  "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F614675F-D990-4FF5-8C7F-939F818C6EAB",
+  "sharedStyleID": "E77BF26F-4068-49A2-A0C8-0168C367F5C9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 5,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9FA49B03-4D93-48F1-87DF-4318A672996B",
+    "do_objectID": "13DE326D-0AF7-4F13-AD28-45B879567271",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,15 +122,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6745098039215687,
-          "green": 0.6039215686274509,
-          "red": 0.5254901960784314
+          "blue": 0.9803921568627451,
+          "green": 0.5568627450980392,
+          "red": 0.1215686274509804
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
-            "size": 17
+            "name": "Roboto-Bold",
+            "size": 15
           }
         },
         "kerning": 0,
