@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "258DFE7B-BDD9-46C1-AF28-6D188167F381",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 371,
+    "width": 69,
+    "x": 71,
+    "y": 127
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "#2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CDF68952-200F-431D-AE7E-B86139671FA5_stringValue",
+      "value": "Thermostat"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7DC45FAE-69E8-49BA-BFA0-7038BB6CFC11_stringValue",
+      "value": "Description of the rule."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EAEEF251-1848-4D7F-9372-9BA11AC4FF6C_symbolID",
+      "value": "3009EC00-DD5D-44A4-A551-8AA0C798D566"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5F6E5F6-FE1D-4CD9-9D61-B41EC556E00E_symbolID",
+      "value": "70759301-6615-4F91-8BC9-80BEB77F6B6D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E3A6F466-3539-4688-BE64-79C7BEA82BC9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB7540EC-B2C2-4EB8-8A6A-236353FBEC8C",
+  "verticalSpacing": 0
+}

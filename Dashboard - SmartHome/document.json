@@ -1,0 +1,225 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.8431372549019608,
+          "red": 0.8117647058823529
+        },
+        "do_objectID": "D985D40E-0ECB-48EB-8FDB-7E5F80F339C0",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5843137254901961,
+          "green": 0.4901960784313725,
+          "red": 0.396078431372549
+        },
+        "do_objectID": "491BE631-08B0-428F-B849-7F32C87C28A8",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4235294117647059,
+          "green": 0.3058823529411766,
+          "red": 0.2431372549019608
+        },
+        "do_objectID": "DF5A81E7-5D5C-4575-8F84-B6A6B1BD9C5A",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.1803921568627452,
+          "red": 0.1411764705882353
+        },
+        "do_objectID": "72D8A37E-E1DF-4FF7-B42E-DB7992E19A1B",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.556862745098039,
+          "red": 0.1215686274509804
+        },
+        "do_objectID": "E2387A31-A53E-4E4A-84EF-AA1F36518931",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7372549019607844,
+          "green": 0.6392156862745098,
+          "red": 0.6235294117647059
+        },
+        "do_objectID": "D08EBCA6-B7D0-448D-81B5-2CA1CD81DFAB",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6392156862745098,
+          "green": 0.5215686274509804,
+          "red": 0.4823529411764706
+        },
+        "do_objectID": "5CD166E3-4907-4682-8084-B6D5BFF42516",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5843137254901961,
+          "green": 0.4901960784313725,
+          "red": 0.396078431372549
+        },
+        "do_objectID": "BCB5338E-3410-4559-81EF-B73F35661806",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4196078431372549,
+          "green": 0.3333333333333334,
+          "red": 0.2666666666666667
+        },
+        "do_objectID": "80EB9B87-6260-4910-8789-820BE07AAB7B",
+        "name": ""
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.8431372549019608,
+        "red": 0.8117647058823529
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5843137254901961,
+        "green": 0.4901960784313725,
+        "red": 0.396078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4235294117647059,
+        "green": 0.3058823529411766,
+        "red": 0.2431372549019608
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2588235294117647,
+        "green": 0.1803921568627452,
+        "red": 0.1411764705882353
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.556862745098039,
+        "red": 0.1215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7372549019607844,
+        "green": 0.6392156862745098,
+        "red": 0.6235294117647059
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6392156862745098,
+        "green": 0.5215686274509804,
+        "red": 0.4823529411764706
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5843137254901961,
+        "green": 0.4901960784313725,
+        "red": 0.396078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4196078431372549,
+        "green": 0.3333333333333334,
+        "red": 0.2666666666666667
+      }
+    ],
+    "do_objectID": "7D30DA35-EB6D-4B5C-984D-2960772B6412",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "797CDDCC-E7F6-4A23-96D1-5266974D95B7",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "59",
+    "build": 86127,
+    "version": 121
+  },
+  "pages": [
+    "Welcome Screen",
+    "Screens",
+    "Style Guide",
+    "UI Kit",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
